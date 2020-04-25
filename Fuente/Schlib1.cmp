@@ -1,0 +1,50 @@
+Component Name : 74HC142_C
+
+Part Count : 8
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?A
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?C
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?D
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?E
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?F
+     Pins - (Normal) : 2
+          A              1              Input
+          B              2              Output
+          Hidden Pins : 
+
+Part : U?G
+     Pins - (Normal) : 2
+          3              3              Passive
+          4              4              Power
+          Hidden Pins : 
+
