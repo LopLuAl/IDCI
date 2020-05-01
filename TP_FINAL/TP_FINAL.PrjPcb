@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MDJOIGAB
 
 [Document3]
-DocumentPath=SCH_LIB_FUENTE.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMESNRQO
-
-[Document4]
 DocumentPath=SCH_RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZAYPVWRP
 
-[Document5]
+[Document4]
 DocumentPath=SCH_TOP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,6 +104,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBYWYGKU
+
+[Document5]
+DocumentPath=SCH_POTENCIA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UOOFDIMB
+
+[Document6]
+DocumentPath=SCH_SEGEMENTOS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MNYBRXBX
 
 [Configuration1]
 Name=Sources
@@ -1099,58 +1116,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=SCH_LIB.SchLib
-ComponentDesignItemID0=ATmega328P_V2
-ComponentSymbolReference0=ATmega328P_V2
+ComponentDesignItemID0=ULN2803
+ComponentSymbolReference0=ULN2803
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=SCH_LIB.SchLib
-ComponentDesignItemID1=BATT
-ComponentSymbolReference1=BATT
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=SCH_LIB.SchLib
-ComponentDesignItemID2=CAPACITOR
-ComponentSymbolReference2=CAPACITOR
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=SCH_LIB.SchLib
-ComponentDesignItemID3=Diode
-ComponentSymbolReference3=Diode
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=SCH_LIB.SchLib
-ComponentDesignItemID4=DS3231
-ComponentSymbolReference4=DS3231
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=SCH_LIB.SchLib
-ComponentDesignItemID5=Resistor
-ComponentSymbolReference5=Resistor
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=SCH_LIB.SchLib
-ComponentDesignItemID6=SWITCH
-ComponentSymbolReference6=SWITCH
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=SCH_LIB.SchLib
-ComponentDesignItemID7=XTAL
-ComponentSymbolReference7=XTAL
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
