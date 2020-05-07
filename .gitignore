@@ -19,3 +19,5 @@ IDCI_WifiNode_R00/__Previews/IDCI_WifiNode_PWR.SchDocPreview
 IDCI_WifiNode_R00/__Previews/IDCI_WifiNode_PER.SchDocPreview
 IDCI_WifiNode_R00/__Previews/IDCI_WifiNode_CPU1.SchDocPreview
 IDCI_WifiNode_R00/__Previews/IDCI_WifiNode_CPU0.SchDocPreview
+*.Zip
+*.SchDocPreview
