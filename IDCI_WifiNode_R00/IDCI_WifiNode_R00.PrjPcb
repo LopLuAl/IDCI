@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YCGPVZXQ
 
 [Document7]
-DocumentPath=IDCI_WifiNode_R00.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=IDCI_WifiNode_2_R00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1210,7 @@ ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=IDCI_WifiNode_2_R00.SchLib
 ComponentDesignItemID5=ESP12F Wifi Module
 ComponentSymbolReference5=ESP12F Wifi Module
-ComponentUpdate5=1
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=IDCI_WifiNode_2_R00.SchLib
@@ -1239,13 +1222,13 @@ ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=IDCI_WifiNode_2_R00.SchLib
 ComponentDesignItemID7=LPC1769FBD100_Multipart
 ComponentSymbolReference7=LPC1769FBD100_Multipart
-ComponentUpdate7=1
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=IDCI_WifiNode_2_R00.SchLib
 ComponentDesignItemID8=N_MOSFET_SOT23
 ComponentSymbolReference8=N_MOSFET_SOT23
-ComponentUpdate8=1
+ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=IDCI_WifiNode_2_R00.SchLib
@@ -1328,6 +1311,14 @@ ParameterName2=Description
 ParameterUpdate2=1
 ParameterName3=Library Reference
 ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=3.2X1.6X1.1
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=Model Name
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
